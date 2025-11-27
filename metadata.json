@@ -1,0 +1,5 @@
+{
+  "name": "FlappyQuiz",
+  "description": "A Flappy Bird clone where you survive by flying and earn coins by answering AI-generated quiz questions from your own notes to buy exclusive skins.",
+  "requestFramePermissions": []
+}
